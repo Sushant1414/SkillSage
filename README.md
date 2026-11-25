@@ -273,21 +273,3 @@ This project demonstrates practical implementation of:
 SkillSage is an intelligent career development platform that transforms career aspirations into structured, actionable learning journeys. By combining resume analysis, skill-gap detection, roadmap generation, and AI-powered guidance, the platform helps learners make informed decisions and become industry-ready professionals.
 
 ---
-
-## ⭐ Final Year Engineering Project
-
----
-
-## 👩‍💻 Developed By
-
-- **Sonam Yadav**
-- **Chetana Ingle**
-- **Sakshi Nimsadkar**
-
-**SkillSage – Personalized AI Career Roadmap Generator**
-
-**Academic Year:** 2025–2026  
-**Department:** Computer Engineering  
-**Institute:** Dr. D. Y. Patil Institute of Engineering, Management & Research, Akurdi, Pune
-
----
